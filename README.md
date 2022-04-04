@@ -1,6 +1,6 @@
 # **WATCHLIST-APP-REACT-CONTEXT-API**
 
-<img src="./public/watchlist-app.gif" alt="watchlist-app" width="500" height="300">
+<img src="./public/watchlist-app.gif" alt="watchlist-app" width="800" height="500">
 
 </br>
 
